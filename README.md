@@ -1,0 +1,3 @@
+```bash
+xelatex cv.tex
+```
